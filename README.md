@@ -1,6 +1,6 @@
 # Assignment 3 - Rock-Paper-Scissors-Lizard-Spock
 
-## Learning )bjectives
+## Learning Objectives
 You will gain a deeper understanding of OOP principles, specifically: inheritance, abstract classes (& polymorphism, see L20, _can also be solved without!_).
 
 ### Problem
