@@ -1,7 +1,7 @@
 # Assignment 3 - Rock-Paper-Scissors-Lizard-Spock
 
 ## Learning Objectives
-You will gain a deeper understanding of OOP principles, specifically: inheritance, abstract classes (& polymorphism, see L20, _can also be solved without!_).
+You will gain a deeper understanding of OOP principles, specifically: inheritance, abstract classes (& polymorphism, see L20/L21, _can also be solved without!_).
 
 ### Problem
 **Rock-Paper-Scissors-Lizard-Spock** was invented by Sam Kass and Karen Bryla as a version of the classic selection method game Rock-Paper-Scissors that features **two** additional gestures: the **lizard** 🦎 (_hand as a sock-puppet-like mouth_) and Spock 🖖 (_Star Trek Vulcan salute_).
@@ -80,7 +80,7 @@ Hence, the following rules can be derived:
 
 **Happy coding!**
 
-### Mini Intro to Polymorphism (L20)
+### Mini Intro to Polymorphism (L20/L21)
 While you cannot instantiate an abstract class, you can use it as a 'generic' class type to instantiate it later with the specific subclass type! 
 
 **Example:** `Animal` is an abstract class and subclassed by (non-abstract) `Cat` and `Dog` classes.
